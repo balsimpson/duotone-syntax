@@ -2,17 +2,14 @@
   "name": "gogh-starry-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Syntax Theme using color palette from Van Gogh - Starry Nights",
+  "description": "Van Gogh - Starry Nights color palette",
   "keywords": [
-    "duotone",
     "syntax",
-    "van gogh",
-    "starry",
-    "night"
+    "theme"
   ],
-  "repository": "https://github.com/balsimpson/gogh-starry-syntax",
+  "repository": "https://github.com/atom/gogh-starry-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">1.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
