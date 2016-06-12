@@ -1,13 +1,16 @@
 {
-  "name": "duotone-syntax",
+  "name": "gogh-starry-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Master template for DuoTone syntax themes",
+  "description": "Syntax Theme using color palette from Van Gogh - Starry Nights",
   "keywords": [
     "duotone",
-    "syntax"
+    "syntax",
+    "van gogh",
+    "starry",
+    "night"
   ],
-  "repository": "https://github.com/simurai/duotone-syntax",
+  "repository": "https://github.com/balsimpson/gogh-starry-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
